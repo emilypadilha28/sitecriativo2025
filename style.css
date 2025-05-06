@@ -1,0 +1,60 @@
+body {
+	
+}
+
+#FeiraRural {
+	width: 95;
+}
+
+.principal{
+	background: #ffffff;
+	padding: 30px;
+}
+
+h1 {
+	text-align: center
+}
+
+p {
+	text-align: center;
+}
+
+#missao {
+	font-size: 20px
+}
+
+em strong {
+	color: #266940;
+}
+
+.itens {
+	font-style: italic
+}
+
+.beneficios {
+	background: #fffefc;
+	padding: 10px;
+}
+
+h2 {
+	text-align: center;
+}
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
+
+.imagemfeira2 {
+	width: 30%;
+}
+
+.rodape{
+	text-align: center;
+}
+.rodape-imagem{
+  width: 200px;
+  text-align: center;
+
+}
